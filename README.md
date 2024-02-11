@@ -12,7 +12,7 @@ The examined area I choose was the Seattle area. I choose the zoom levels betwee
 This map is just a mapbox street map of Seattle.
 # Layer 2
 ![Alt Text](img/img2.png)
-This map using Parking Lot data of parks within Washington state. The data is displayed on monohrome map of Seattle.
+This map using Parking Lot data of parks within Washington state. The data is displayed on monohrome map of Seattle. I choose for this map to display the park name instead of having just showcasing dots around Seattle.
 # Layer 3
 ![Alt Text](img/img3.png)
 This layers uses the same data but is displayed on the first base map.
